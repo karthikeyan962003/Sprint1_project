@@ -1,0 +1,1 @@
+User service-related tasks would be included in the sprint planning process, from the initial refinement of user stories to the daily Scrum meetings and the sprint review and retrospective. The Scrum Team would ensure that user service tasks are prioritized and estimated appropriately, and that the team is working together to deliver value to the product and its users.
